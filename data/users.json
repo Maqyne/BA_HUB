@@ -3,11 +3,15 @@
         {
             "userName": "sarah.williams",
             "password": "pa$$Word",
+            "firstName": "sarah",
+            "lastName": "williams",
             "userType": "admin"
         },
         {
             "userName": "kyle.malinosky",
             "password": "pa$$Word",
+            "firstName": "kyle",
+            "lastName": "malinosky",
             "userType": "intern"
         }
     ]
