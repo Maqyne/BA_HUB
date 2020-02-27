@@ -1,0 +1,24 @@
+{
+    "MainNav": [
+      { "path": "home", "linkName": "Home" },
+      { "path": "orbital-stations", "linkName": "Orbital-Stations" },
+      { "path": "ships", "linkName": "Ships" }
+    ],
+
+    
+  
+    "Pages": [
+      {
+        "pageName": "home",
+        "content": ""
+      },
+      {
+        "pageName": "orbital-stations",
+        "content": "<section class='stations'><div class='stationOne_pic'></div><div class='station_info'><h1>Orbital-Station<br>Type One</h1><p>Early stations were monolithic designs that were constructed and launched in one piece,generally containing all their supplies and experimental equipment. A crew would then be launched to join the station and perform research.</p></div></section><section class='stations'><div class='station_info'><h1>Orbital-Station<br>Type Two</h1><p>Later versions of stations were designed and are built to this day to act as hubs for trade and fuel. They are designed with more robust environmental systems to sustain longterm habitants.</p></div><div class='stationTwo_pic'></div></section><section class='stations'><div class='stationThree_pic'></div><div class='station_info'><h1>Orbital-Station<br>Type Three</h1><p>A Orbital-Station pioneereed by Cavorite Astronautical. This station acts as an artificial moon to create tidal forces on the planet it orbits. Such stations have become instrumental in terraforming efforts.</p></div></section><section class='stations'><div class='station_info'><h1>Orbital-Station<br>Type Four</h1><p>These most recent stations are key as mobile diplomatic spaces. They're equiped with the most advanced long range sensors, life support, and state of the art gravity-drives.</p></div><div class='stationFour_pic'></div></section>"
+      },
+      {
+        "pageName": "ships",
+        "content": "<section class='ships'><div class='ship_info'><h1>Carrier Class<br>Type One</h1><p>Ship with top of the line assistive drones designed to move a maximum amount of cargo with minimal crew for optimal efficiency.</p></div><div class='shipOne_pic'></div></section><section class='ships'><div class='shipTwo_pic'></div><div class='ship_info'><h1>Sentinal Class<br>Type Three</h1><p>A vessel with unmatched sensors and communications systems. Able to fill gabs in communications relays just as easily as it can monitor ship movements across entire solar sytems.</p></div></section><section class='ships'><div class='ship_info'><h1>Drone Class<br>Type Four</h1><p>These AI driven drone models are designed for high efficiancy tactical runs.</p></div><div class='shipThree_pic'></div></section><section class='ships'><div class='shipFour_pic'></div><div class='ship_info'><h1>Generation Class<br>Type One</h1><p>These megolithic ships are designed to crew a nearly planetary population and is equiped with state of the art shielding and nano-repair systems. Capable of traveling a standard generation without stopping for resupply, this is the Mother of all ships.</p></div></section>"
+      }
+    ]
+  }

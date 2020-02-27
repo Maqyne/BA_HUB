@@ -1,0 +1,14 @@
+{
+    "Credentials": [
+        {
+            "userName": "sarah.williams",
+            "password": "pa$$Word",
+            "userType": "admin"
+        },
+        {
+            "userName": "kyle.malinosky",
+            "password": "pa$$Word",
+            "userType": "intern"
+        }
+    ]
+}
